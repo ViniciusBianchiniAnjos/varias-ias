@@ -1,0 +1,77 @@
+
+
+
+body {
+    background-color: rgb(84, 189, 36);
+  }
+  
+  @media screen and (min-width: 400px) {
+    body {
+      background-color: rgb(77, 194, 77);
+    }
+  }
+  
+  @media screen and (min-width: 800px) {
+    body {
+      background-color:rgb(171, 245, 171);
+    }
+  }
+
+.p1 {
+
+    text-align: center;
+    font-size: 200%;
+    background-color: rgb(58, 90, 7);
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.p2 {
+    
+    text-align: left;
+    font-size: 120%;
+    margin-left: 10%;
+}
+
+.p3 {
+    
+    text-align: right;
+    font-size: 120%;
+    margin-right: 10%;
+}
+
+.p4 {
+    
+    text-align: left;
+    font-size: 120%;
+    margin-left: 10%;
+}
+
+.p5 {
+    
+    text-align: right;
+    font-size: 120%;
+    margin-right: 10%;
+}
+
+.p6 {
+    
+    text-align: left;
+    font-size: 120%;
+    margin-left: 10%;
+}
+
+.p7 {
+    
+    text-align: right;
+    font-size: 120%;
+    margin-right: 10%;
+}
+
+.p8 {
+    
+    text-align: left;
+    font-size: 120%;
+    margin-left: 10%;
+}
